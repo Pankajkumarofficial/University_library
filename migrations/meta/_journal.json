@@ -8,6 +8,20 @@
       "when": 1738574334327,
       "tag": "0000_fancy_black_queen",
       "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1738928590425,
+      "tag": "0001_fat_talisman",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1739001471594,
+      "tag": "0002_ambiguous_harpoon",
+      "breakpoints": true
     }
   ]
 }
